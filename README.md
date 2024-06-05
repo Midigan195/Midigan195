@@ -43,4 +43,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### [Musical Wonder](https://callmejimmy.pythonanywhere.com/)
-<img src="https://i.imgur.com/Veyu4WX.png" width="240" border="10"/><img src="https://i.imgur.com/UGK4qnn.png" width="240" border="10"/>
+<img src="https://i.imgur.com/Veyu4WX.png" width="240" margin-right="20" /><img src="https://i.imgur.com/UGK4qnn.png" width="240" />
