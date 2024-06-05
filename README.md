@@ -32,3 +32,16 @@ src="https://img.shields.io/github/followers/Midigan195?logo=github&style=for-th
 <a href="http://www.github.com/Midigan195"><img src="https://github-readme-stats.vercel.app/api?username=Midigan195&show_icons=true&hide=stars,prs,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Midigan195's GitHub stats" /></a>
 
 <a href="http://www.github.com/Midigan195"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Midigan195&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Projects
+#### [Pitch](http://www.youtube.com/watch?feature=player_embedded&v=FKpl4ggVGtM&t=4s)/[Live demo](http://www.youtube.com/watch?feature=player_embedded&v=6lv7kM22M4w) - [Gartium](https://gartium.pythonanywhere.com)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=FKpl4ggVGtM&t=4s
+" target="_blank"><img src="http://img.youtube.com/vi/FKpl4ggVGtM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6lv7kM22M4w
+" target="_blank"><img src="http://img.youtube.com/vi/6lv7kM22M4w/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+#### [Musical Wonder](https://callmejimmy.pythonanywhere.com/)
+<img src="https://i.imgur.com/Veyu4WX.png" width="240"/>
+<img src="https://i.imgur.com/UGK4qnn.png" width="240"/>
